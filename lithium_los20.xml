@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/lithium" remote="github" name="rik0612c/android_device_xiaomi_lithium" revision="lineage-20" />
+  <project path="device/xiaomi/msm8996-common" remote="github" name="rik0612c/android_device_xiaomi_msm8996-common" revision="lineage-20-nodolby" />
+  <project path="kernel/xiaomi/msm8996" remote="github" name="rik0612c/android_kernel_xiaomi_msm8996" revision="thirteen" />
+  <project path="vendor/xiaomi/lithium" remote="github" name="rik0612c/proprietary_vendor_xiaomi_lithium" revision="lineage-20" />
+  <project path="vendor/xiaomi/msm8996-common" remote="github" name="rik0612c/proprietary_vendor_xiaomi_msm8996-common" revision="lineage-20-nodolby" />
+</manifest>
